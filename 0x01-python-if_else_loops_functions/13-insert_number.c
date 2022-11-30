@@ -44,7 +44,7 @@ listint_t *insert_node(listint_t **head, int number)
 	}
 
 	/* if lots of nodes in linked list, do comparision and insert */
-	tmp = *head
+	tmp = *head;
 	while (tmp->next != NULL)
 	{
 		/* if new node num is smaller than first node, insert */
