@@ -8,6 +8,7 @@ the area of the square, another one that handles the print of the square.
 
 """
 
+
 class Square():
     """Defines a square."""
 
