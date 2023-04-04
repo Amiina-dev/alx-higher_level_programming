@@ -1,4 +1,3 @@
-#!/bin/bash
 """
 Contains the function find_peak to find the peak
 """
