@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 Contains the function find_peak to find the peak
 """
